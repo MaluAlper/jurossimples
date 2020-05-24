@@ -1,0 +1,11 @@
+C:\Users\Maria Luiza\Documents\Luiza\jurossimples\jurossimples\bin\Debug\netcoreapp3.1\jurossimples.exe
+C:\Users\Maria Luiza\Documents\Luiza\jurossimples\jurossimples\bin\Debug\netcoreapp3.1\jurossimples.deps.json
+C:\Users\Maria Luiza\Documents\Luiza\jurossimples\jurossimples\bin\Debug\netcoreapp3.1\jurossimples.runtimeconfig.json
+C:\Users\Maria Luiza\Documents\Luiza\jurossimples\jurossimples\bin\Debug\netcoreapp3.1\jurossimples.runtimeconfig.dev.json
+C:\Users\Maria Luiza\Documents\Luiza\jurossimples\jurossimples\bin\Debug\netcoreapp3.1\jurossimples.dll
+C:\Users\Maria Luiza\Documents\Luiza\jurossimples\jurossimples\bin\Debug\netcoreapp3.1\jurossimples.pdb
+C:\Users\Maria Luiza\Documents\Luiza\jurossimples\jurossimples\obj\Debug\netcoreapp3.1\jurossimples.csprojAssemblyReference.cache
+C:\Users\Maria Luiza\Documents\Luiza\jurossimples\jurossimples\obj\Debug\netcoreapp3.1\jurossimples.AssemblyInfoInputs.cache
+C:\Users\Maria Luiza\Documents\Luiza\jurossimples\jurossimples\obj\Debug\netcoreapp3.1\jurossimples.AssemblyInfo.cs
+C:\Users\Maria Luiza\Documents\Luiza\jurossimples\jurossimples\obj\Debug\netcoreapp3.1\jurossimples.dll
+C:\Users\Maria Luiza\Documents\Luiza\jurossimples\jurossimples\obj\Debug\netcoreapp3.1\jurossimples.pdb
